@@ -3,9 +3,10 @@
 ---
 
 - **机器人爱好者**🤖 
-- **奋斗目标** ：机器人软件工程师
-- **blibli频道** ：[bilibili-亿勺蛋白粉](https://space.bilibili.com/412687699?spm_id_from=333.1007.0.0)
-- **e-mail** ：huhanze0328@qq.com
+- **奋斗目标** ：机器人全栈工程师
+- **blibli频道** ：[bilibili-一只电皓子](https://space.bilibili.com/402386453?spm_id_from=333.1007.0.0)
+- **语雀** ：[语雀花园](https://www.yuque.com/xiaobaigao-axvlp)
+- **e-mail** ：1061639678@qq.com
 
 <div align="center">
 <table>
